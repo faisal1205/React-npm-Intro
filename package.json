@@ -1,0 +1,17 @@
+{
+  "name": "day-12-react-road-map",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
